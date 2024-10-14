@@ -1,0 +1,15 @@
+* {
+  color: #fff149;
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.header {
+  text-align: center;
+}
+
+.btn-container {
+  margin-top: 10px;
+}
